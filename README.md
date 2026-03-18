@@ -96,6 +96,7 @@ Best for Recall (business-critical)
 <p align="center">
   <img src="Images/stacking_table.png" width="1400"/>
 </p>
+<br>
 
 <p align="center">
   <em><strong>Stacking: Parameters Performance Comparison Table. Stacking (tuned with GridSearchCV) is our best model for test accuracy.</strong></em>
@@ -106,6 +107,7 @@ Best for Recall (business-critical)
 <p align="center">
   <img src="Images/lr_class_reweighing_table.png" width="800"/>
 </p>
+<br>
 
 <p align="center">
   <em><strong>Resampling (Logistic Regression): Methods Performance Comparison Table. Class reweighting + Logistic Regression is our best model for recall (business-critical).</strong></em>
@@ -117,6 +119,7 @@ Best for Recall (business-critical)
 <p align="center">
   <img src="Images/feature_importance_plot.png" width="700"/>
 </p>
+<br>
 
 <p align="center">
   <em><strong>Feature importance plot. We can see that satisfaction has an overwhelming influence on keeping customers (don't churn) while the customer having fiber optic internet type has the highest influence on losing customers (churn).</strong></em>
@@ -127,6 +130,7 @@ Best for Recall (business-critical)
 <p align="center">
   <img src="Images/partial_dependency_plot.png" width="500"/>
 </p>
+<br>
 
 <p align="center">
   <em><strong>Partial Dependency Plot (PDP) of our two most important features for churn (satisfaction and monthly charges). Higher Value of partial dependence indicates higher probability to churn.</strong></em>
