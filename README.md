@@ -1,5 +1,15 @@
 ## Part 2: Classification
 
+## Executive Summary
+
+- Built and evaluated multiple classification models to predict customer churn (~7000 customers, 50+ features)
+- Best overall model: **Stacking (Accuracy = 0.957)** with strong generalization
+- Best business model: **Class-weighted Logistic Regression (Recall = 0.9438)** to capture churners
+- Key drivers of churn: **low satisfaction, high monthly charges, short tenure, lack of contract**
+- Business impact: Enables targeted retention strategies to reduce churn risk
+
+## Detailed Sections
+
 **Objective:** 
 
 Predict customer churn using telecommunications data and evaluate multiple classification models to optimize retention strategy
