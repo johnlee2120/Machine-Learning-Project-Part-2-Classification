@@ -113,6 +113,8 @@ Best for Recall (business-critical)
 - Global Surrogate Models
 - Local Interpretable Model-agnostic Explanations (LIME)
 
+<br><br><br>
+
 ## Images:
 
 <p align="center">
@@ -163,6 +165,8 @@ Best for Recall (business-critical)
     Higher Value of partial dependence indicates higher probability to churn.<br>
     Our two most important features for churn (satisfaction and monthly charges). </strong></em>
 </p>
+
+<br><br><br>
 
 ## Business Impact & Recommendations
 
