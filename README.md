@@ -100,7 +100,7 @@ Best for Recall (business-critical)
 
 <p align="center">
   <em><strong>Stacking: Parameters Performance Comparison Table.<br>
-    Stacking (tuned with GridSearchCV) is our best model for test accuracy.</strong></em>
+    Stacking (tuned with GridSearchCV) is our best model for test accuracy (value in bold).</strong></em>
 </p>
 
 <br><br><br>
@@ -112,7 +112,7 @@ Best for Recall (business-critical)
 
 <p align="center">
   <em><strong>Resampling (Logistic Regression): Methods Performance Comparison Table.<br>
-    Class reweighting + Logistic Regression is our best model for recall (business-critical).</strong></em>
+    Class reweighting + Logistic Regression is our best model for recall (value in bold).</strong></em>
 </p>
 
 <br><br><br>
