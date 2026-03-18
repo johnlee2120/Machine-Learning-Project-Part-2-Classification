@@ -65,14 +65,14 @@ Best Model for Test Accuracy
 
 - Stacking (tuned with GridSearchCV)
   - Models stacked: Support Vector Machine (SVM), K nearest neighbors (KNN), Decision Tree Classifier (dt), Final Estimator = Logistic regression (LR)
-- Accuracy = 0.957
+- **Accuracy = 0.957**
 - Highest test accuracy
 - Strong generalization (low overfitting gap = 0.00037)
 
 Best for Recall (business-critical)
 
 - Class reweighting + Logistic Regression
-- Recall = 0.9438
+- **Recall = 0.9438**
 - Compared to Logistic Regression without class reweighing
   - Significantly improved recall (caught more churners)
   - Slight drop in precision (acceptable tradeoff)
