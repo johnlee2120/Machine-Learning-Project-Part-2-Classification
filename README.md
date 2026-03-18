@@ -4,6 +4,14 @@
 
 Predict customer churn using telecommunications data and evaluate multiple classification models to optimize retention strategy
 
+**Techniques Used**
+
+- **Models:** Logistic Regression (L1, L2, Elastic Net), KNN, SVM, Decision Tree, Bagging, Random Forest, Extra Trees, AdaBoost, XGBoost, Stacking  
+- **Imbalance Handling:** SMOTE, Class Reweighting, Random Undersampling  
+- **Evaluation:** Accuracy, Precision, Recall, F1 Score, ROC-AUC, Confusion Matrix, Precision-Recall Curve  
+- **Validation & Tuning:** Train/Test Split, GridSearchCV (hyperparameter tuning), Overfitting Gap Analysis  
+- **Interpretability:** Permutation Feature Importance, Partial Dependency Plots (PDP), Global Surrogate Models, LIME  
+
 **Dataset:** 
 
 - ~7000 customers, 50+ features
