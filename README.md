@@ -94,7 +94,7 @@ Best for Recall (business-critical)
 ## Images:
 
 <p align="center">
-  <img src="Images/stacking_table.png" width="450"/>
+  <img src="Images/stacking_table.png" width="800"/>
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@ Best for Recall (business-critical)
 </p>
 
 <p align="center">
-  <img src="Images/lr_class_reweighing_table.png" width="600"/>
+  <img src="Images/lr_class_reweighing_table.png" width="800"/>
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@ Best for Recall (business-critical)
 
 
 <p align="center">
-  <img src="Images/feature_importance_plot.png" width="300"/>
+  <img src="Images/feature_importance_plot.png" width="500"/>
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@ Best for Recall (business-critical)
 </p>
 
 <p align="center">
-  <img src="Images/partial_dependency_plot.png" width="300"/>
+  <img src="Images/partial_dependency_plot.png" width="500"/>
 </p>
 
 <p align="center">
