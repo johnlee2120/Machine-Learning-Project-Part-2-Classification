@@ -91,7 +91,7 @@ Best for Recall (business-critical)
 - Global Surrogate Models
 - Local Interpretable Model-agnostic Explanations (LIME)
 
-**Images:**
+## Images:
 
 <p align="center">
   <img src="Images/predicted%20vs%20actual.png" width="450"/>
