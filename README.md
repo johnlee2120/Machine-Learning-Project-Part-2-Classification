@@ -2,7 +2,7 @@ _README file Last updated: [March 2026]_
 
 ## Machine Learning Project: Classification 
 
-## Executive Summary
+## Executive Summary 
 
 - Built and evaluated multiple classification models to predict customer churn (~7000 customers, 50+ features)
 - Best overall model: **Stacking (Accuracy = 0.957)** with strong generalization
